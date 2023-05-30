@@ -32,3 +32,7 @@ print(a)
 print(b)
 print(z)
 pie(v)
+
+
+# nuevo codigo
+table(rpois(1000,0.5))
